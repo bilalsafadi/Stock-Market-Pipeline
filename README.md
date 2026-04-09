@@ -1,6 +1,6 @@
 # Stock Market Financial Data Pipeline
 
-This is an automated data pipeline that ingests live stock market data into a cloud database and visualizes it through an interactive dashboard.
+This is my automated data pipeline that ingests live stock market data into a cloud database and visualizes it through an interactive dashboard.
 
 ## Tech Stack
 - **Python** — automated data ingestion using yfinance API
