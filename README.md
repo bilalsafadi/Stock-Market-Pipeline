@@ -1,4 +1,4 @@
-# Stock Market Financial Data Pipeline
+#  Stock Market Financial Data Pipeline
 
 This is my automated data pipeline that ingests live stock market data into a cloud database and visualizes it through an interactive dashboard.
 
