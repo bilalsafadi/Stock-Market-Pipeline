@@ -1,7 +1,7 @@
 import yfinance as yf
 import pyodbc
 from azure.identity import InteractiveBrowserCredential
-import struct
+import struct 
 
 server = "your-azure-server.database.windows.net"  # REPLACE WITH YOUR SERVER NAME
 database = "StockDataDB"
